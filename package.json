@@ -1,8 +1,8 @@
 {
-  "name": "aoc2021",
+  "name": "advent-of-code-2021-js",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:Kamigami55/aoc2021.git",
+  "repository": "git@github.com:Kamigami55/advent-of-code-2021-js.git",
   "author": "Kamigami55 <eason@easonchang.com>",
   "license": "MIT",
   "devDependencies": {
