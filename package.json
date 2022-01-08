@@ -1,0 +1,14 @@
+{
+  "name": "aoc2021",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Kamigami55/aoc2021.git",
+  "author": "Kamigami55 <eason@easonchang.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  },
+  "dependencies": {
+    "n-readlines": "^1.0.1"
+  }
+}
